@@ -69,15 +69,101 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="exploring-playing-time-and-performance-in-the-wnba" class="level2">
+<h2 class="anchored" data-anchor-id="exploring-playing-time-and-performance-in-the-wnba">Exploring Playing Time and Performance in the WNBA</h2>
+<p>How does playing time impact individual player output on the court? Using box score data from 9,902 player appearances across the 2023 and 2024 WNBA seasons, we examine the relationships between minutes played and key statistical categories. Each point represents a player’s output in a single game, and the dashed line indicates the overall linear trend.</p>
+<section id="points-vs.-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="points-vs.-minutes">Points vs.&nbsp;Minutes</h3>
+<p>Scoring opportunity scales strongly with court time. Players who log over 30 minutes regularly produce double-digit scoring nights, whereas players with under 15 minutes rarely score more than 10 points.</p>
 <div class="cell">
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="WNBALeaders_files/figure-html/points-vs-rebounds-plot-1.png" class="img-fluid figure-img" width="1152"></p>
+<p><img src="WNBALeaders_files/figure-html/points-vs-minutes-1.png" class="img-fluid figure-img" width="864"></p>
 </figure>
 </div>
 </div>
 </div>
+</section>
+<section id="rebounds-vs.-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="rebounds-vs.-minutes">Rebounds vs.&nbsp;Minutes</h3>
+<p>Rebounding shows a steady positive slope with increased playing time. While frontcourt players drive the highest totals (occasionally pulling down 15+ boards in heavy-minute games), being on the floor consistently generates rebounding opportunities.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="WNBALeaders_files/figure-html/rebounds-vs-minutes-1.png" class="img-fluid figure-img" width="864"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="assists-vs.-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="assists-vs.-minutes">Assists vs.&nbsp;Minutes</h3>
+<p>Playmaking is heavily correlated with court time, especially for starting guards. High-minute roles display considerable upward spread, with top playmakers frequently dishing out 8 to 15 assists.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="WNBALeaders_files/figure-html/assists-vs-minutes-1.png" class="img-fluid figure-img" width="864"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="steals-vs.-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="steals-vs.-minutes">Steals vs.&nbsp;Minutes</h3>
+<p>Steals occur less frequently per game than points or rebounds, but extended minutes clearly heighten the chance of disrupting passing lanes and generating multiple defensive takeaways.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="WNBALeaders_files/figure-html/steals-vs-minutes-1.png" class="img-fluid figure-img" width="864"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="blocks-vs.-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="blocks-vs.-minutes">Blocks vs.&nbsp;Minutes</h3>
+<p>Shot blocking shows a gradual positive slope with minutes. Because rejections are predominantly recorded by rim-protecting forwards and centers, many appearances finish with 0 or 1 block, with specialized defensive anchors driving games of 4+ blocks.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="WNBALeaders_files/figure-html/blocks-vs-minutes-1.png" class="img-fluid figure-img" width="864"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="turnovers-vs.-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="turnovers-vs.-minutes">Turnovers vs.&nbsp;Minutes</h3>
+<p>Greater minutes and offensive usage inevitably increase the risk of lost possessions. The upward trend reflects how increased ball possession time naturally leads to more turnovers.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="WNBALeaders_files/figure-html/turnovers-vs-minutes-1.png" class="img-fluid figure-img" width="864"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="personal-fouls-vs.-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="personal-fouls-vs.-minutes">Personal Fouls vs.&nbsp;Minutes</h3>
+<p>Defending for longer stretches raises the likelihood of fouling. Players with over 25 minutes typically log between 2 and 4 personal fouls, navigating the 6-foul limit.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="WNBALeaders_files/figure-html/fouls-vs-minutes-1.png" class="img-fluid figure-img" width="864"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+</section>
 
 </main>
 <!-- /main column -->
