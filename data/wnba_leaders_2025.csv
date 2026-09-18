@@ -1,0 +1,906 @@
+category,rank,player,team,value
+Points,1,A'ja Wilson,LVA,937
+Points,2,Kelsey Mitchell,IND,890
+Points,3,Kelsey Plum,LAS,839
+Points,4,Dearica Hamby,LAS,811
+Points,5,Nneka Ogwumike,SEA,803
+Points,6,Allisha Gray,ATL,773
+Points,7,Napheesa Collier,MIN,755
+Points,8,Jackie Young,LVA,727
+Points,9,Tina Charles,CON,700
+Points,10,Sabrina Ionescu,NYL,693
+Points,11,Paige Bueckers,DAL,692
+Points,12,Skylar Diggins,SEA,667
+Points,13,Aliyah Boston,IND,660
+Points,14,Sonia Citron,WAS,657
+Points,15,Satou Sabally,PHO,636
+Points,16,Alyssa Thomas,PHO,599
+Points,NA,Courtney Williams,MIN,599
+Points,18,Kiki Iriafen,WAS,584
+Points,19,Rhyne Howard,ATL,577
+Points,20,Breanna Stewart,NYL,566
+Points Per Game,1,A'ja Wilson,LVA,23.4
+Points Per Game,2,Napheesa Collier,MIN,22.9
+Points Per Game,3,Kelsey Mitchell,IND,20.2
+Points Per Game,4,Kelsey Plum,LAS,19.5
+Points Per Game,5,Paige Bueckers,DAL,19.2
+Points Per Game,6,Dearica Hamby,LAS,18.4
+Points Per Game,7,Allisha Gray,ATL,18.4
+Points Per Game,8,Breanna Stewart,NYL,18.3
+Points Per Game,9,Nneka Ogwumike,SEA,18.2
+Points Per Game,10,Sabrina Ionescu,NYL,18.2
+Points Per Game,11,Rhyne Howard,ATL,17.5
+Points Per Game,12,Jackie Young,LVA,16.5
+Points Per Game,13,Satou Sabally,PHO,16.3
+Points Per Game,14,Tina Charles,CON,16.3
+Points Per Game,15,Kahleah Copper,PHO,15.6
+Points Per Game,16,Arike Ogunbowale,DAL,15.5
+Points Per Game,17,Skylar Diggins,SEA,15.5
+Points Per Game,18,Alyssa Thomas,PHO,15.4
+Points Per Game,19,Aliyah Boston,IND,15
+Points Per Game,20,Sonia Citron,WAS,14.9
+Total Rebounds,1,A'ja Wilson,LVA,407
+Total Rebounds,2,Angel Reese,CHI,377
+Total Rebounds,3,Kiki Iriafen,WAS,376
+Total Rebounds,4,Aliyah Boston,IND,361
+Total Rebounds,5,Azura Stevens,LAS,352
+Total Rebounds,6,Dearica Hamby,LAS,349
+Total Rebounds,7,Alyssa Thomas,PHO,344
+Total Rebounds,8,Kamilla Cardoso,CHI,341
+Total Rebounds,9,Brionna Jones,ATL,319
+Total Rebounds,10,Nneka Ogwumike,SEA,309
+Total Rebounds,11,Jessica Shepard,MIN,293
+Total Rebounds,12,Natasha Howard,IND,290
+Total Rebounds,13,Aneesah Morrow,CON,282
+Total Rebounds,14,Ezi Magbegor,SEA,272
+Total Rebounds,15,Naz Hillmon,ATL,271
+Total Rebounds,16,Jonquel Jones,NYL,251
+Total Rebounds,17,Tina Charles,CON,248
+Total Rebounds,18,Shakira Austin,WAS,242
+Total Rebounds,19,Napheesa Collier,MIN,241
+Total Rebounds,20,Myisha Hines-Allen,DAL,240
+Rebounds Per Game,1,Angel Reese,CHI,12.6
+Rebounds Per Game,2,A'ja Wilson,LVA,10.2
+Rebounds Per Game,3,Alyssa Thomas,PHO,8.8
+Rebounds Per Game,4,Kiki Iriafen,WAS,8.5
+Rebounds Per Game,5,Kamilla Cardoso,CHI,8.5
+Rebounds Per Game,6,Aliyah Boston,IND,8.2
+Rebounds Per Game,7,Jonquel Jones,NYL,8.1
+Rebounds Per Game,8,Azura Stevens,LAS,8
+Rebounds Per Game,9,Dearica Hamby,LAS,7.9
+Rebounds Per Game,10,Jessica Shepard,MIN,7.3
+Rebounds Per Game,11,Napheesa Collier,MIN,7.3
+Rebounds Per Game,12,Brionna Jones,ATL,7.2
+Rebounds Per Game,13,Nneka Ogwumike,SEA,7
+Rebounds Per Game,14,Aneesah Morrow,CON,6.9
+Rebounds Per Game,15,Natasha Howard,IND,6.6
+Rebounds Per Game,16,Breanna Stewart,NYL,6.5
+Rebounds Per Game,17,Shakira Austin,WAS,6.4
+Rebounds Per Game,18,Ezi Magbegor,SEA,6.2
+Rebounds Per Game,19,Naz Hillmon,ATL,6.2
+Rebounds Per Game,20,Myisha Hines-Allen,DAL,6
+Offensive Rebounds,1,Brionna Jones,ATL,136
+Offensive Rebounds,2,Angel Reese,CHI,123
+Offensive Rebounds,3,Kamilla Cardoso,CHI,118
+Offensive Rebounds,4,Kiki Iriafen,WAS,114
+Offensive Rebounds,5,Dearica Hamby,LAS,113
+Offensive Rebounds,6,Aliyah Boston,IND,107
+Offensive Rebounds,7,Jessica Shepard,MIN,92
+Offensive Rebounds,8,A'ja Wilson,LVA,91
+Offensive Rebounds,9,Natasha Howard,IND,86
+Offensive Rebounds,10,Ezi Magbegor,SEA,85
+Offensive Rebounds,11,Aneesah Morrow,CON,84
+Offensive Rebounds,12,Elizabeth Williams,CHI,79
+Offensive Rebounds,13,Natasha Mack,PHO,78
+Offensive Rebounds,14,NaLyssa Smith,TOT,74
+Offensive Rebounds,NA,Azura Stevens,LAS,74
+Offensive Rebounds,16,Temi Fagbenle,GSV,70
+Offensive Rebounds,17,Naz Hillmon,ATL,69
+Offensive Rebounds,18,Alanna Smith,MIN,65
+Offensive Rebounds,19,Alyssa Thomas,PHO,64
+Offensive Rebounds,20,Tina Charles,CON,62
+Offensive Rebounds,NA,Napheesa Collier,MIN,62
+Offensive Rebounds,NA,Lexie Hull,IND,62
+Defensive Rebounds,1,A'ja Wilson,LVA,316
+Defensive Rebounds,2,Alyssa Thomas,PHO,280
+Defensive Rebounds,3,Azura Stevens,LAS,278
+Defensive Rebounds,4,Kiki Iriafen,WAS,262
+Defensive Rebounds,5,Aliyah Boston,IND,254
+Defensive Rebounds,NA,Angel Reese,CHI,254
+Defensive Rebounds,7,Nneka Ogwumike,SEA,250
+Defensive Rebounds,8,Dearica Hamby,LAS,236
+Defensive Rebounds,9,Kamilla Cardoso,CHI,223
+Defensive Rebounds,10,Jonquel Jones,NYL,206
+Defensive Rebounds,11,Natasha Howard,IND,204
+Defensive Rebounds,12,Naz Hillmon,ATL,202
+Defensive Rebounds,13,Jessica Shepard,MIN,201
+Defensive Rebounds,14,Aneesah Morrow,CON,198
+Defensive Rebounds,15,Courtney Williams,MIN,193
+Defensive Rebounds,16,Allisha Gray,ATL,187
+Defensive Rebounds,NA,Ezi Magbegor,SEA,187
+Defensive Rebounds,18,Tina Charles,CON,186
+Defensive Rebounds,19,Shakira Austin,WAS,185
+Defensive Rebounds,20,Brionna Jones,ATL,183
+Assists,1,Alyssa Thomas,PHO,357
+Assists,2,Courtney Williams,MIN,271
+Assists,3,Veronica Burton,GSV,265
+Assists,4,Skylar Diggins,SEA,258
+Assists,5,Kelsey Plum,LAS,247
+Assists,6,Chelsea Gray,LVA,239
+Assists,7,Jackie Young,LVA,226
+Assists,8,Sabrina Ionescu,NYL,216
+Assists,9,Natasha Cloud,NYL,211
+Assists,10,Paige Bueckers,DAL,194
+Assists,11,Gabby Williams,SEA,185
+Assists,12,Julie Allemand,LAS,170
+Assists,13,Sug Sutton,WAS,166
+Assists,14,Aliyah Boston,IND,163
+Assists,15,Jordin Canada,ATL,159
+Assists,16,Brittney Sykes,TOT,155
+Assists,17,Rhyne Howard,ATL,153
+Assists,18,Kelsey Mitchell,IND,150
+Assists,19,Allisha Gray,ATL,147
+Assists,20,Dearica Hamby,LAS,144
+Assists,NA,Erica Wheeler,SEA,144
+Assists Per Game,1,Alyssa Thomas,PHO,9.2
+Assists Per Game,2,Courtney Williams,MIN,6.2
+Assists Per Game,3,Veronica Burton,GSV,6
+Assists Per Game,4,Skylar Diggins,SEA,6
+Assists Per Game,5,Kelsey Plum,LAS,5.7
+Assists Per Game,6,Sabrina Ionescu,NYL,5.7
+Assists Per Game,7,Jordin Canada,ATL,5.7
+Assists Per Game,8,Chelsea Gray,LVA,5.4
+Assists Per Game,9,Paige Bueckers,DAL,5.4
+Assists Per Game,10,Natasha Cloud,NYL,5.1
+Assists Per Game,11,Jackie Young,LVA,5.1
+Assists Per Game,12,Julie Allemand,LAS,5
+Assists Per Game,13,Rhyne Howard,ATL,4.6
+Assists Per Game,14,Gabby Williams,SEA,4.2
+Assists Per Game,15,Arike Ogunbowale,DAL,4.1
+Assists Per Game,16,Marina Mabrey,CON,4
+Assists Per Game,17,Brittney Sykes,TOT,4
+Assists Per Game,18,Sug Sutton,WAS,3.9
+Assists Per Game,19,Aliyah Boston,IND,3.7
+Assists Per Game,20,Angel Reese,CHI,3.7
+Steals,1,Gabby Williams,SEA,99
+Steals,2,Dearica Hamby,LAS,69
+Steals,3,A'ja Wilson,LVA,64
+Steals,4,Chelsea Gray,LVA,62
+Steals,NA,Saniya Rivers,CON,62
+Steals,NA,Alyssa Thomas,PHO,62
+Steals,7,Paige Bueckers,DAL,57
+Steals,NA,Jackie Young,LVA,57
+Steals,9,Erica Wheeler,SEA,56
+Steals,10,Leïla Lacan,CON,55
+Steals,NA,Courtney Williams,MIN,55
+Steals,NA,Alanna Smith,MIN,55
+Steals,NA,Sonia Citron,WAS,55
+Steals,14,Napheesa Collier,MIN,54
+Steals,NA,Azura Stevens,LAS,54
+Steals,16,Ariel Atkins,CHI,53
+Steals,NA,Kelsey Plum,LAS,53
+Steals,18,Aliyah Boston,IND,52
+Steals,NA,Skylar Diggins,SEA,52
+Steals,NA,Natasha Howard,IND,52
+Steals,NA,Jewell Loyd,LVA,52
+Steals Per Game,1,Gabby Williams,SEA,2.2
+Steals Per Game,2,Leïla Lacan,CON,2.2
+Steals Per Game,3,Jordin Canada,ATL,1.7
+Steals Per Game,4,Napheesa Collier,MIN,1.6
+Steals Per Game,5,A'ja Wilson,LVA,1.6
+Steals Per Game,6,Alyssa Thomas,PHO,1.6
+Steals Per Game,7,Paige Bueckers,DAL,1.6
+Steals Per Game,8,Dearica Hamby,LAS,1.6
+Steals Per Game,9,Ariel Atkins,CHI,1.6
+Steals Per Game,10,Rhyne Howard,ATL,1.5
+Steals Per Game,11,Saniya Rivers,CON,1.5
+Steals Per Game,12,Angel Reese,CHI,1.5
+Steals Per Game,13,Chelsea Gray,LVA,1.4
+Steals Per Game,14,Breanna Stewart,NYL,1.4
+Steals Per Game,15,Arike Ogunbowale,DAL,1.3
+Steals Per Game,16,Julie Allemand,LAS,1.3
+Steals Per Game,17,Alanna Smith,MIN,1.3
+Steals Per Game,18,Jackie Young,LVA,1.3
+Steals Per Game,19,Erica Wheeler,SEA,1.3
+Steals Per Game,20,Sabrina Ionescu,NYL,1.3
+Blocks,1,Ezi Magbegor,SEA,96
+Blocks,2,A'ja Wilson,LVA,92
+Blocks,3,Alanna Smith,MIN,80
+Blocks,4,Natasha Mack,PHO,52
+Blocks,5,Napheesa Collier,MIN,50
+Blocks,6,Kamilla Cardoso,CHI,47
+Blocks,NA,Brittney Griner,ATL,47
+Blocks,NA,Azura Stevens,LAS,47
+Blocks,9,Shakira Austin,WAS,43
+Blocks,NA,Olivia Nelson-Ododa,CON,43
+Blocks,11,Breanna Stewart,NYL,42
+Blocks,12,Aliyah Boston,IND,41
+Blocks,13,Elizabeth Williams,CHI,39
+Blocks,14,Saniya Rivers,CON,38
+Blocks,15,Brionna Jones,ATL,36
+Blocks,16,Skylar Diggins,SEA,35
+Blocks,17,Jonquel Jones,NYL,33
+Blocks,18,NaLyssa Smith,TOT,29
+Blocks,19,Chelsea Gray,LVA,28
+Blocks,NA,Dominique Malonga,SEA,28
+Blocks Per Game,1,A'ja Wilson,LVA,2.3
+Blocks Per Game,2,Ezi Magbegor,SEA,2.2
+Blocks Per Game,3,Alanna Smith,MIN,1.9
+Blocks Per Game,4,Natasha Mack,PHO,1.5
+Blocks Per Game,5,Napheesa Collier,MIN,1.5
+Blocks Per Game,6,Breanna Stewart,NYL,1.4
+Blocks Per Game,7,Brittney Griner,ATL,1.2
+Blocks Per Game,8,Kamilla Cardoso,CHI,1.2
+Blocks Per Game,9,Olivia Nelson-Ododa,CON,1.2
+Blocks Per Game,10,Shakira Austin,WAS,1.1
+Blocks Per Game,11,Azura Stevens,LAS,1.1
+Blocks Per Game,12,Jonquel Jones,NYL,1.1
+Blocks Per Game,13,Aliyah Boston,IND,0.9
+Blocks Per Game,14,Elizabeth Williams,CHI,0.9
+Blocks Per Game,15,Saniya Rivers,CON,0.9
+Blocks Per Game,16,Rhyne Howard,ATL,0.8
+Blocks Per Game,NA,Brionna Jones,ATL,0.8
+Blocks Per Game,18,Skylar Diggins,SEA,0.8
+Blocks Per Game,19,Monique Billings,GSV,0.8
+Blocks Per Game,20,Haley Jones,TOT,0.8
+Field Goal Pct,1,Jessica Shepard,MIN,0.638
+Field Goal Pct,2,Dearica Hamby,LAS,0.572
+Field Goal Pct,3,Natasha Howard,IND,0.552
+Field Goal Pct,4,Dominique Malonga,SEA,0.551
+Field Goal Pct,5,Aliyah Boston,IND,0.538
+Field Goal Pct,6,Alyssa Thomas,PHO,0.532
+Field Goal Pct,7,Napheesa Collier,MIN,0.531
+Field Goal Pct,8,Kamilla Cardoso,CHI,0.528
+Field Goal Pct,9,Brionna Jones,ATL,0.527
+Field Goal Pct,10,Olivia Nelson-Ododa,CON,0.526
+Field Goal Pct,11,Nneka Ogwumike,SEA,0.519
+Field Goal Pct,12,Brittney Griner,ATL,0.518
+Field Goal Pct,13,A'ja Wilson,LVA,0.505
+Field Goal Pct,14,Temi Fagbenle,GSV,0.502
+Field Goal Pct,15,NaLyssa Smith,TOT,0.502
+Field Goal Pct,16,Ezi Magbegor,SEA,0.493
+Field Goal Pct,17,Natisha Hiedeman,MIN,0.492
+Field Goal Pct,18,Maddy Siegrist,DAL,0.491
+Field Goal Pct,19,Jonquel Jones,NYL,0.49
+Field Goal Pct,20,Leonie Fiebich,NYL,0.489
+Free Throw Pct,1,Sabrina Ionescu,NYL,0.933
+Free Throw Pct,2,Arike Ogunbowale,DAL,0.931
+Free Throw Pct,3,Napheesa Collier,MIN,0.906
+Free Throw Pct,4,Kayla McBride,MIN,0.905
+Free Throw Pct,5,Jackie Young,LVA,0.894
+Free Throw Pct,6,Kelsey Plum,LAS,0.893
+Free Throw Pct,7,Paige Bueckers,DAL,0.888
+Free Throw Pct,8,Chelsea Gray,LVA,0.885
+Free Throw Pct,9,Rachel Banham,CHI,0.881
+Free Throw Pct,10,Veronica Burton,GSV,0.878
+Free Throw Pct,11,Sonia Citron,WAS,0.872
+Free Throw Pct,12,DeWanna Bonner,TOT,0.872
+Free Throw Pct,13,Leonie Fiebich,NYL,0.871
+Free Throw Pct,14,Marina Mabrey,CON,0.87
+Free Throw Pct,NA,Natasha Cloud,NYL,0.87
+Free Throw Pct,16,Ariel Atkins,CHI,0.86
+Free Throw Pct,17,Tina Charles,CON,0.857
+Free Throw Pct,18,Rhyne Howard,ATL,0.856
+Free Throw Pct,19,A'ja Wilson,LVA,0.855
+Free Throw Pct,20,Gabby Williams,SEA,0.853
+3-Pt Field Goal Pct,1,Sonia Citron,WAS,0.445
+3-Pt Field Goal Pct,2,Iliana Rupert,GSV,0.442
+3-Pt Field Goal Pct,3,Sophie Cunningham,IND,0.432
+3-Pt Field Goal Pct,4,Leonie Fiebich,NYL,0.425
+3-Pt Field Goal Pct,5,Jonquel Jones,NYL,0.424
+3-Pt Field Goal Pct,6,A'ja Wilson,LVA,0.424
+3-Pt Field Goal Pct,7,Kennedy Burke,NYL,0.414
+3-Pt Field Goal Pct,8,Cecilia Zandalasini,GSV,0.407
+3-Pt Field Goal Pct,9,Tiffany Hayes,GSV,0.406
+3-Pt Field Goal Pct,10,Napheesa Collier,MIN,0.403
+3-Pt Field Goal Pct,11,Monique Akoa Makani,PHO,0.398
+3-Pt Field Goal Pct,12,Jacy Sheldon,TOT,0.396
+3-Pt Field Goal Pct,13,Kayla McBride,MIN,0.395
+3-Pt Field Goal Pct,14,Kelsey Mitchell,IND,0.394
+3-Pt Field Goal Pct,15,Courtney Williams,MIN,0.389
+3-Pt Field Goal Pct,16,Te-Hina PaoPao,ATL,0.386
+3-Pt Field Goal Pct,17,Allisha Gray,ATL,0.384
+3-Pt Field Goal Pct,18,Jewell Loyd,LVA,0.382
+3-Pt Field Goal Pct,19,Azura Stevens,LAS,0.381
+3-Pt Field Goal Pct,20,Kahleah Copper,PHO,0.377
+2-Pt Field Goal Pct,1,Jessica Shepard,MIN,0.641
+2-Pt Field Goal Pct,2,Naz Hillmon,ATL,0.637
+2-Pt Field Goal Pct,3,Alanna Smith,MIN,0.633
+2-Pt Field Goal Pct,4,Temi Fagbenle,GSV,0.604
+2-Pt Field Goal Pct,5,Dearica Hamby,LAS,0.604
+2-Pt Field Goal Pct,6,Natasha Howard,IND,0.59
+2-Pt Field Goal Pct,7,Leïla Lacan,CON,0.589
+2-Pt Field Goal Pct,8,Nneka Ogwumike,SEA,0.581
+2-Pt Field Goal Pct,9,Dominique Malonga,SEA,0.576
+2-Pt Field Goal Pct,10,Natisha Hiedeman,MIN,0.574
+2-Pt Field Goal Pct,11,Napheesa Collier,MIN,0.571
+2-Pt Field Goal Pct,12,Leonie Fiebich,NYL,0.564
+2-Pt Field Goal Pct,13,Maddy Siegrist,DAL,0.564
+2-Pt Field Goal Pct,14,Brionna Jones,ATL,0.559
+2-Pt Field Goal Pct,15,Azura Stevens,LAS,0.558
+2-Pt Field Goal Pct,16,Aliyah Boston,IND,0.558
+2-Pt Field Goal Pct,17,Marine Johannes,NYL,0.556
+2-Pt Field Goal Pct,NA,Jackie Young,LVA,0.556
+2-Pt Field Goal Pct,19,Alyssa Thomas,PHO,0.539
+2-Pt Field Goal Pct,20,Jonquel Jones,NYL,0.536
+Effective Field Goal Pct,1,Jessica Shepard,MIN,0.638
+Effective Field Goal Pct,2,Leonie Fiebich,NYL,0.604
+Effective Field Goal Pct,3,Dearica Hamby,LAS,0.586
+Effective Field Goal Pct,4,Napheesa Collier,MIN,0.579
+Effective Field Goal Pct,5,Jonquel Jones,NYL,0.577
+Effective Field Goal Pct,6,Kennedy Burke,NYL,0.573
+Effective Field Goal Pct,7,Nneka Ogwumike,SEA,0.572
+Effective Field Goal Pct,8,Natisha Hiedeman,MIN,0.567
+Effective Field Goal Pct,9,Alanna Smith,MIN,0.565
+Effective Field Goal Pct,10,Azura Stevens,LAS,0.564
+Effective Field Goal Pct,11,Natasha Howard,IND,0.561
+Effective Field Goal Pct,12,Dominique Malonga,SEA,0.559
+Effective Field Goal Pct,13,Sonia Citron,WAS,0.556
+Effective Field Goal Pct,14,Naz Hillmon,ATL,0.552
+Effective Field Goal Pct,15,Jackie Young,LVA,0.548
+Effective Field Goal Pct,16,Aliyah Boston,IND,0.544
+Effective Field Goal Pct,17,Brionna Jones,ATL,0.541
+Effective Field Goal Pct,18,Allisha Gray,ATL,0.54
+Effective Field Goal Pct,19,Maddy Siegrist,DAL,0.539
+Effective Field Goal Pct,20,Kayla McBride,MIN,0.536
+True Shooting Pct,1,Sophie Cunningham,IND,0.655
+True Shooting Pct,2,Emma Meesseman,NYL,0.65
+True Shooting Pct,3,Leonie Fiebich,NYL,0.646
+True Shooting Pct,4,Napheesa Collier,MIN,0.636
+True Shooting Pct,5,Jessica Shepard,MIN,0.634
+True Shooting Pct,6,Jonquel Jones,NYL,0.611
+True Shooting Pct,7,Iliana Rupert,GSV,0.609
+True Shooting Pct,8,Sonia Citron,WAS,0.609
+True Shooting Pct,9,Cecilia Zandalasini,GSV,0.606
+True Shooting Pct,10,Dearica Hamby,LAS,0.605
+True Shooting Pct,11,Kennedy Burke,NYL,0.602
+True Shooting Pct,12,Nneka Ogwumike,SEA,0.6
+True Shooting Pct,13,Allisha Gray,ATL,0.598
+True Shooting Pct,14,Jackie Young,LVA,0.596
+True Shooting Pct,15,A'ja Wilson,LVA,0.596
+True Shooting Pct,16,Azura Stevens,LAS,0.596
+True Shooting Pct,17,Natasha Howard,IND,0.595
+True Shooting Pct,18,Natisha Hiedeman,MIN,0.593
+True Shooting Pct,19,Jacy Sheldon,TOT,0.593
+True Shooting Pct,20,Kayla McBride,MIN,0.584
+Field Goals,1,A'ja Wilson,LVA,332
+Field Goals,2,Dearica Hamby,LAS,324
+Field Goals,3,Nneka Ogwumike,SEA,320
+Field Goals,4,Kelsey Mitchell,IND,315
+Field Goals,5,Napheesa Collier,MIN,275
+Field Goals,6,Aliyah Boston,IND,271
+Field Goals,7,Kelsey Plum,LAS,261
+Field Goals,8,Tina Charles,CON,260
+Field Goals,NA,Jackie Young,LVA,260
+Field Goals,10,Paige Bueckers,DAL,259
+Field Goals,11,Courtney Williams,MIN,248
+Field Goals,12,Allisha Gray,ATL,246
+Field Goals,13,Alyssa Thomas,PHO,241
+Field Goals,14,Sabrina Ionescu,NYL,230
+Field Goals,15,Skylar Diggins,SEA,228
+Field Goals,16,Brionna Jones,ATL,225
+Field Goals,17,Kamilla Cardoso,CHI,223
+Field Goals,NA,Sonia Citron,WAS,223
+Field Goals,19,Kiki Iriafen,WAS,222
+Field Goals,20,Satou Sabally,PHO,208
+Field Goal Attempts,1,Kelsey Mitchell,IND,691
+Field Goal Attempts,2,A'ja Wilson,LVA,658
+Field Goal Attempts,3,Kelsey Plum,LAS,618
+Field Goal Attempts,4,Nneka Ogwumike,SEA,617
+Field Goal Attempts,5,Tina Charles,CON,593
+Field Goal Attempts,6,Courtney Williams,MIN,580
+Field Goal Attempts,7,Sabrina Ionescu,NYL,573
+Field Goal Attempts,8,Dearica Hamby,LAS,566
+Field Goal Attempts,9,Jackie Young,LVA,547
+Field Goal Attempts,10,Allisha Gray,ATL,546
+Field Goal Attempts,11,Paige Bueckers,DAL,543
+Field Goal Attempts,12,Skylar Diggins,SEA,539
+Field Goal Attempts,13,Napheesa Collier,MIN,518
+Field Goal Attempts,14,Satou Sabally,PHO,515
+Field Goal Attempts,15,Aliyah Boston,IND,504
+Field Goal Attempts,16,Rhyne Howard,ATL,499
+Field Goal Attempts,17,Marina Mabrey,CON,488
+Field Goal Attempts,18,Rickea Jackson,LAS,483
+Field Goal Attempts,19,Sonia Citron,WAS,474
+Field Goal Attempts,20,Gabby Williams,SEA,469
+2-Pt Field Goals,1,Dearica Hamby,LAS,309
+2-Pt Field Goals,2,A'ja Wilson,LVA,307
+2-Pt Field Goals,3,Aliyah Boston,IND,265
+2-Pt Field Goals,4,Nneka Ogwumike,SEA,254
+2-Pt Field Goals,5,Tina Charles,CON,248
+2-Pt Field Goals,6,Alyssa Thomas,PHO,241
+2-Pt Field Goals,7,Napheesa Collier,MIN,225
+2-Pt Field Goals,8,Kamilla Cardoso,CHI,222
+2-Pt Field Goals,9,Paige Bueckers,DAL,220
+2-Pt Field Goals,NA,Kiki Iriafen,WAS,220
+2-Pt Field Goals,11,Brionna Jones,ATL,213
+2-Pt Field Goals,12,Kelsey Mitchell,IND,204
+2-Pt Field Goals,13,Natasha Howard,IND,194
+2-Pt Field Goals,14,Courtney Williams,MIN,190
+2-Pt Field Goals,15,Shakira Austin,WAS,189
+2-Pt Field Goals,16,Jackie Young,LVA,180
+2-Pt Field Goals,17,Breanna Stewart,NYL,167
+2-Pt Field Goals,18,Skylar Diggins,SEA,166
+2-Pt Field Goals,19,Kelsey Plum,LAS,162
+2-Pt Field Goals,20,Elizabeth Williams,CHI,157
+2-Pt Field Goal Attempts,1,A'ja Wilson,LVA,599
+2-Pt Field Goal Attempts,2,Tina Charles,CON,547
+2-Pt Field Goal Attempts,3,Dearica Hamby,LAS,512
+2-Pt Field Goal Attempts,4,Aliyah Boston,IND,475
+2-Pt Field Goal Attempts,5,Alyssa Thomas,PHO,447
+2-Pt Field Goal Attempts,6,Kiki Iriafen,WAS,444
+2-Pt Field Goal Attempts,7,Nneka Ogwumike,SEA,437
+2-Pt Field Goal Attempts,8,Courtney Williams,MIN,431
+2-Pt Field Goal Attempts,9,Paige Bueckers,DAL,425
+2-Pt Field Goal Attempts,10,Kamilla Cardoso,CHI,420
+2-Pt Field Goal Attempts,11,Kelsey Mitchell,IND,409
+2-Pt Field Goal Attempts,12,Shakira Austin,WAS,396
+2-Pt Field Goal Attempts,13,Napheesa Collier,MIN,394
+2-Pt Field Goal Attempts,14,Brionna Jones,ATL,381
+2-Pt Field Goal Attempts,15,Skylar Diggins,SEA,369
+2-Pt Field Goal Attempts,16,Brittney Sykes,TOT,355
+2-Pt Field Goal Attempts,17,Kelsey Plum,LAS,339
+2-Pt Field Goal Attempts,18,Natasha Howard,IND,329
+2-Pt Field Goal Attempts,19,Elizabeth Williams,CHI,327
+2-Pt Field Goal Attempts,20,Jackie Young,LVA,324
+3-Pt Field Goals,1,Kelsey Mitchell,IND,111
+3-Pt Field Goals,2,Kayla McBride,MIN,103
+3-Pt Field Goals,3,Rhyne Howard,ATL,102
+3-Pt Field Goals,4,Jewell Loyd,LVA,100
+3-Pt Field Goals,5,Kelsey Plum,LAS,99
+3-Pt Field Goals,6,Allisha Gray,ATL,98
+3-Pt Field Goals,7,Rachel Banham,CHI,86
+3-Pt Field Goals,NA,Sami Whitcomb,PHO,86
+3-Pt Field Goals,9,Sonia Citron,WAS,81
+3-Pt Field Goals,NA,Sabrina Ionescu,NYL,81
+3-Pt Field Goals,11,Jackie Young,LVA,80
+3-Pt Field Goals,12,Erica Wheeler,SEA,76
+3-Pt Field Goals,13,Azura Stevens,LAS,74
+3-Pt Field Goals,14,Satou Sabally,PHO,67
+3-Pt Field Goals,15,Marina Mabrey,CON,66
+3-Pt Field Goals,NA,Nneka Ogwumike,SEA,66
+3-Pt Field Goals,17,Rickea Jackson,LAS,65
+3-Pt Field Goals,NA,Marine Johannes,NYL,65
+3-Pt Field Goals,19,Bridget Carleton,MIN,63
+3-Pt Field Goals,NA,Chelsea Gray,LVA,63
+3-Pt Field Goals,NA,Janelle Salaün,GSV,63
+3-Pt Field Goal Attempts,1,Rhyne Howard,ATL,317
+3-Pt Field Goal Attempts,2,Kelsey Mitchell,IND,282
+3-Pt Field Goal Attempts,3,Kelsey Plum,LAS,279
+3-Pt Field Goal Attempts,4,Sabrina Ionescu,NYL,271
+3-Pt Field Goal Attempts,5,Jewell Loyd,LVA,262
+3-Pt Field Goal Attempts,6,Kayla McBride,MIN,261
+3-Pt Field Goal Attempts,7,Allisha Gray,ATL,255
+3-Pt Field Goal Attempts,8,Marina Mabrey,CON,244
+3-Pt Field Goal Attempts,9,Rachel Banham,CHI,241
+3-Pt Field Goal Attempts,10,Sami Whitcomb,PHO,238
+3-Pt Field Goal Attempts,11,Jackie Young,LVA,223
+3-Pt Field Goal Attempts,12,Satou Sabally,PHO,209
+3-Pt Field Goal Attempts,13,Erica Wheeler,SEA,204
+3-Pt Field Goal Attempts,14,Azura Stevens,LAS,194
+3-Pt Field Goal Attempts,15,Marine Johannes,NYL,189
+3-Pt Field Goal Attempts,16,Rickea Jackson,LAS,187
+3-Pt Field Goal Attempts,17,Kate Martin,GSV,184
+3-Pt Field Goal Attempts,18,Sonia Citron,WAS,182
+3-Pt Field Goal Attempts,NA,Kia Nurse,CHI,182
+3-Pt Field Goal Attempts,20,Nneka Ogwumike,SEA,180
+Field Goals Missed,1,Kelsey Mitchell,IND,376
+Field Goals Missed,2,Kelsey Plum,LAS,357
+Field Goals Missed,3,Sabrina Ionescu,NYL,343
+Field Goals Missed,4,Tina Charles,CON,333
+Field Goals Missed,5,Courtney Williams,MIN,332
+Field Goals Missed,6,A'ja Wilson,LVA,326
+Field Goals Missed,7,Rhyne Howard,ATL,312
+Field Goals Missed,8,Skylar Diggins,SEA,311
+Field Goals Missed,9,Marina Mabrey,CON,309
+Field Goals Missed,10,Satou Sabally,PHO,307
+Field Goals Missed,11,Allisha Gray,ATL,300
+Field Goals Missed,12,Nneka Ogwumike,SEA,297
+Field Goals Missed,13,Jackie Young,LVA,287
+Field Goals Missed,14,Paige Bueckers,DAL,284
+Field Goals Missed,15,Brittney Sykes,TOT,283
+Field Goals Missed,16,Rickea Jackson,LAS,278
+Field Goals Missed,17,Gabby Williams,SEA,271
+Field Goals Missed,18,Jewell Loyd,LVA,261
+Field Goals Missed,19,Arike Ogunbowale,DAL,257
+Field Goals Missed,20,Erica Wheeler,SEA,252
+Free Throws,1,A'ja Wilson,LVA,248
+Free Throws,2,Kelsey Plum,LAS,218
+Free Throws,3,Allisha Gray,ATL,183
+Free Throws,4,Brittney Sykes,TOT,171
+Free Throws,5,Breanna Stewart,NYL,169
+Free Throws,6,Tina Charles,CON,168
+Free Throws,7,Veronica Burton,GSV,166
+Free Throws,8,Napheesa Collier,MIN,155
+Free Throws,9,Satou Sabally,PHO,153
+Free Throws,10,Sabrina Ionescu,NYL,152
+Free Throws,11,Skylar Diggins,SEA,149
+Free Throws,NA,Kelsey Mitchell,IND,149
+Free Throws,13,Dearica Hamby,LAS,148
+Free Throws,14,Kiki Iriafen,WAS,138
+Free Throws,15,Paige Bueckers,DAL,135
+Free Throws,16,Sonia Citron,WAS,130
+Free Throws,NA,Angel Reese,CHI,130
+Free Throws,18,Jackie Young,LVA,127
+Free Throws,19,Alyssa Thomas,PHO,117
+Free Throws,20,Aliyah Boston,IND,112
+Free Throw Attempts,1,A'ja Wilson,LVA,290
+Free Throw Attempts,2,Kelsey Plum,LAS,244
+Free Throw Attempts,3,Dearica Hamby,LAS,236
+Free Throw Attempts,4,Allisha Gray,ATL,229
+Free Throw Attempts,5,Brittney Sykes,TOT,219
+Free Throw Attempts,6,Breanna Stewart,NYL,202
+Free Throw Attempts,7,Tina Charles,CON,196
+Free Throw Attempts,8,Kelsey Mitchell,IND,190
+Free Throw Attempts,9,Veronica Burton,GSV,189
+Free Throw Attempts,NA,Skylar Diggins,SEA,189
+Free Throw Attempts,11,Satou Sabally,PHO,185
+Free Throw Attempts,12,Kiki Iriafen,WAS,176
+Free Throw Attempts,13,Angel Reese,CHI,172
+Free Throw Attempts,14,Napheesa Collier,MIN,171
+Free Throw Attempts,15,Alyssa Thomas,PHO,169
+Free Throw Attempts,16,Sabrina Ionescu,NYL,163
+Free Throw Attempts,17,Paige Bueckers,DAL,152
+Free Throw Attempts,18,Sonia Citron,WAS,149
+Free Throw Attempts,19,Aliyah Boston,IND,147
+Free Throw Attempts,20,Shakira Austin,WAS,146
+Minutes Played,1,Kelsey Plum,LAS,1508
+Minutes Played,2,Allisha Gray,ATL,1451
+Minutes Played,3,Sonia Citron,WAS,1415
+Minutes Played,4,Gabby Williams,SEA,1391
+Minutes Played,5,Kelsey Mitchell,IND,1381
+Minutes Played,6,Dearica Hamby,LAS,1374
+Minutes Played,7,Chelsea Gray,LVA,1368
+Minutes Played,8,Nneka Ogwumike,SEA,1359
+Minutes Played,9,Skylar Diggins,SEA,1343
+Minutes Played,10,Jackie Young,LVA,1336
+Minutes Played,11,Aliyah Boston,IND,1327
+Minutes Played,12,Veronica Burton,GSV,1292
+Minutes Played,13,Courtney Williams,MIN,1260
+Minutes Played,14,Azura Stevens,LAS,1249
+Minutes Played,15,A'ja Wilson,LVA,1247
+Minutes Played,16,Jewell Loyd,LVA,1245
+Minutes Played,17,Bridget Carleton,MIN,1227
+Minutes Played,18,Tina Charles,CON,1222
+Minutes Played,19,Alyssa Thomas,PHO,1221
+Minutes Played,20,Kayla McBride,MIN,1220
+Minutes Per Game,1,Kelsey Plum,LAS,35.1
+Minutes Per Game,2,Rhyne Howard,ATL,34.9
+Minutes Per Game,3,Allisha Gray,ATL,34.5
+Minutes Per Game,4,Arike Ogunbowale,DAL,33.3
+Minutes Per Game,5,Paige Bueckers,DAL,33.3
+Minutes Per Game,6,Napheesa Collier,MIN,32.3
+Minutes Per Game,7,Sonia Citron,WAS,32.2
+Minutes Per Game,8,Gabby Williams,SEA,31.6
+Minutes Per Game,9,Angel Reese,CHI,31.6
+Minutes Per Game,10,Marina Mabrey,CON,31.5
+Minutes Per Game,11,Sabrina Ionescu,NYL,31.4
+Minutes Per Game,12,Kelsey Mitchell,IND,31.4
+Minutes Per Game,13,Alyssa Thomas,PHO,31.3
+Minutes Per Game,14,Kayla McBride,MIN,31.3
+Minutes Per Game,15,Skylar Diggins,SEA,31.2
+Minutes Per Game,16,Dearica Hamby,LAS,31.2
+Minutes Per Game,17,A'ja Wilson,LVA,31.2
+Minutes Per Game,18,Chelsea Gray,LVA,31.1
+Minutes Per Game,19,Nneka Ogwumike,SEA,30.9
+Minutes Per Game,20,Rickea Jackson,LAS,30.9
+Turnovers,1,Alyssa Thomas,PHO,135
+Turnovers,2,Kelsey Plum,LAS,131
+Turnovers,3,Chelsea Gray,LVA,125
+Turnovers,4,Angel Reese,CHI,118
+Turnovers,5,Dearica Hamby,LAS,117
+Turnovers,6,Courtney Williams,MIN,101
+Turnovers,7,Sabrina Ionescu,NYL,100
+Turnovers,8,Marina Mabrey,CON,98
+Turnovers,NA,Brittney Sykes,TOT,98
+Turnovers,NA,Jackie Young,LVA,98
+Turnovers,11,Kamilla Cardoso,CHI,97
+Turnovers,12,Kiki Iriafen,WAS,96
+Turnovers,13,Veronica Burton,GSV,94
+Turnovers,14,Shakira Austin,WAS,92
+Turnovers,15,Sonia Citron,WAS,91
+Turnovers,NA,Skylar Diggins,SEA,91
+Turnovers,17,Myisha Hines-Allen,DAL,87
+Turnovers,NA,A'ja Wilson,LVA,87
+Turnovers,19,Natasha Howard,IND,85
+Turnovers,NA,Nneka Ogwumike,SEA,85
+Personal Fouls,1,Aliyah Boston,IND,136
+Personal Fouls,2,NaLyssa Smith,TOT,131
+Personal Fouls,3,Kiki Iriafen,WAS,126
+Personal Fouls,NA,Ezi Magbegor,SEA,126
+Personal Fouls,5,Lexie Hull,IND,121
+Personal Fouls,6,Natasha Cloud,NYL,119
+Personal Fouls,NA,Temi Fagbenle,GSV,119
+Personal Fouls,NA,Dearica Hamby,LAS,119
+Personal Fouls,NA,Natasha Howard,IND,119
+Personal Fouls,10,Kelsey Plum,LAS,117
+Personal Fouls,11,Alanna Smith,MIN,116
+Personal Fouls,12,Satou Sabally,PHO,115
+Personal Fouls,13,Kamilla Cardoso,CHI,113
+Personal Fouls,14,Erica Wheeler,SEA,112
+Personal Fouls,15,Allisha Gray,ATL,109
+Personal Fouls,NA,Brionna Jones,ATL,109
+Personal Fouls,17,Jackie Young,LVA,106
+Personal Fouls,18,Veronica Burton,GSV,103
+Personal Fouls,NA,Angel Reese,CHI,103
+Personal Fouls,20,Ariel Atkins,CHI,102
+Player Efficiency Rating,1,A'ja Wilson,LVA,33.4
+Player Efficiency Rating,2,Napheesa Collier,MIN,30.2
+Player Efficiency Rating,3,Alyssa Thomas,PHO,25.2
+Player Efficiency Rating,4,Dearica Hamby,LAS,23.8
+Player Efficiency Rating,5,Breanna Stewart,NYL,23.7
+Player Efficiency Rating,6,Aliyah Boston,IND,22.8
+Player Efficiency Rating,7,Brionna Jones,ATL,22.6
+Player Efficiency Rating,8,Jackie Young,LVA,22.3
+Player Efficiency Rating,9,Paige Bueckers,DAL,22.1
+Player Efficiency Rating,10,Nneka Ogwumike,SEA,21.8
+Player Efficiency Rating,11,Jessica Shepard,MIN,21.1
+Player Efficiency Rating,12,Sabrina Ionescu,NYL,20.4
+Player Efficiency Rating,13,Jonquel Jones,NYL,20.3
+Player Efficiency Rating,14,Azura Stevens,LAS,20.2
+Player Efficiency Rating,15,Kelsey Mitchell,IND,19.9
+Player Efficiency Rating,16,Angel Reese,CHI,19.9
+Player Efficiency Rating,17,Kamilla Cardoso,CHI,19.8
+Player Efficiency Rating,18,Allisha Gray,ATL,19.7
+Player Efficiency Rating,19,Satou Sabally,PHO,19.5
+Player Efficiency Rating,20,Veronica Burton,GSV,19.3
+Win Shares,1,A'ja Wilson,LVA,9.5
+Win Shares,2,Napheesa Collier,MIN,8.3
+Win Shares,3,Allisha Gray,ATL,7.7
+Win Shares,4,Aliyah Boston,IND,7.1
+Win Shares,5,Alyssa Thomas,PHO,6.9
+Win Shares,6,Brionna Jones,ATL,6.8
+Win Shares,7,Jackie Young,LVA,6.6
+Win Shares,8,Veronica Burton,GSV,6.4
+Win Shares,9,Nneka Ogwumike,SEA,5.7
+Win Shares,10,Dearica Hamby,LAS,5.6
+Win Shares,11,Kelsey Mitchell,IND,5.6
+Win Shares,12,Rhyne Howard,ATL,5.1
+Win Shares,13,Breanna Stewart,NYL,4.9
+Win Shares,14,Alanna Smith,MIN,4.8
+Win Shares,15,Naz Hillmon,ATL,4.8
+Win Shares,16,Azura Stevens,LAS,4.7
+Win Shares,17,Jessica Shepard,MIN,4.6
+Win Shares,18,Skylar Diggins,SEA,4.6
+Win Shares,19,Kayla McBride,MIN,4.6
+Win Shares,20,Ezi Magbegor,SEA,4.5
+Offensive Win Shares,1,A'ja Wilson,LVA,6.2
+Offensive Win Shares,2,Napheesa Collier,MIN,5.5
+Offensive Win Shares,3,Allisha Gray,ATL,5.2
+Offensive Win Shares,4,Jackie Young,LVA,4.9
+Offensive Win Shares,5,Aliyah Boston,IND,4.6
+Offensive Win Shares,6,Kelsey Mitchell,IND,4.5
+Offensive Win Shares,7,Dearica Hamby,LAS,4.4
+Offensive Win Shares,8,Veronica Burton,GSV,4.2
+Offensive Win Shares,9,Brionna Jones,ATL,4.2
+Offensive Win Shares,10,Kelsey Plum,LAS,4.1
+Offensive Win Shares,11,Alyssa Thomas,PHO,4.1
+Offensive Win Shares,12,Paige Bueckers,DAL,4
+Offensive Win Shares,13,Nneka Ogwumike,SEA,3.3
+Offensive Win Shares,14,Azura Stevens,LAS,3.2
+Offensive Win Shares,15,Breanna Stewart,NYL,2.9
+Offensive Win Shares,16,Kayla McBride,MIN,2.9
+Offensive Win Shares,17,Skylar Diggins,SEA,2.9
+Offensive Win Shares,18,Jessica Shepard,MIN,2.9
+Offensive Win Shares,19,Rhyne Howard,ATL,2.8
+Offensive Win Shares,20,Naz Hillmon,ATL,2.7
+Defensive Win Shares,1,A'ja Wilson,LVA,3.3
+Defensive Win Shares,2,Alanna Smith,MIN,2.9
+Defensive Win Shares,3,Gabby Williams,SEA,2.8
+Defensive Win Shares,4,Alyssa Thomas,PHO,2.8
+Defensive Win Shares,5,Napheesa Collier,MIN,2.7
+Defensive Win Shares,6,Brionna Jones,ATL,2.6
+Defensive Win Shares,7,Courtney Williams,MIN,2.6
+Defensive Win Shares,8,Allisha Gray,ATL,2.5
+Defensive Win Shares,9,Aliyah Boston,IND,2.5
+Defensive Win Shares,10,Nneka Ogwumike,SEA,2.4
+Defensive Win Shares,11,Ezi Magbegor,SEA,2.4
+Defensive Win Shares,12,Rhyne Howard,ATL,2.3
+Defensive Win Shares,13,Veronica Burton,GSV,2.2
+Defensive Win Shares,14,Natasha Howard,IND,2.1
+Defensive Win Shares,15,Naz Hillmon,ATL,2
+Defensive Win Shares,16,Satou Sabally,PHO,2
+Defensive Win Shares,17,Breanna Stewart,NYL,2
+Defensive Win Shares,18,Bridget Carleton,MIN,1.8
+Defensive Win Shares,19,Shakira Austin,WAS,1.8
+Defensive Win Shares,20,Chelsea Gray,LVA,1.8
+Offensive Rating,1,Natasha Mack,PHO,125
+Offensive Rating,2,Napheesa Collier,MIN,122.9
+Offensive Rating,3,Jessica Shepard,MIN,121.8
+Offensive Rating,4,Brionna Jones,ATL,119.3
+Offensive Rating,5,Allisha Gray,ATL,119
+Offensive Rating,6,A'ja Wilson,LVA,118.6
+Offensive Rating,7,Aliyah Boston,IND,117.9
+Offensive Rating,8,Naz Hillmon,ATL,117.9
+Offensive Rating,9,Sophie Cunningham,IND,117.5
+Offensive Rating,10,Jackie Young,LVA,117.1
+Offensive Rating,11,Veronica Burton,GSV,117
+Offensive Rating,12,Maddy Siegrist,DAL,116.9
+Offensive Rating,13,Iliana Rupert,GSV,116.6
+Offensive Rating,14,Azura Stevens,LAS,115.5
+Offensive Rating,15,Paige Bueckers,DAL,115.4
+Offensive Rating,16,Emma Meesseman,NYL,115.3
+Offensive Rating,17,Leonie Fiebich,NYL,115.3
+Offensive Rating,18,Kelsey Mitchell,IND,114
+Offensive Rating,19,Rebekah Gardner,NYL,113.8
+Offensive Rating,20,Natisha Hiedeman,MIN,113.8
+Defensive Rating,1,A'ja Wilson,LVA,96
+Defensive Rating,2,Alanna Smith,MIN,96.4
+Defensive Rating,3,Napheesa Collier,MIN,96.5
+Defensive Rating,4,Alyssa Thomas,PHO,98.4
+Defensive Rating,5,Brionna Jones,ATL,98.8
+Defensive Rating,6,Jordin Canada,ATL,99.3
+Defensive Rating,7,Jessica Shepard,MIN,99.5
+Defensive Rating,8,Brittney Griner,ATL,99.5
+Defensive Rating,9,Shakira Austin,WAS,99.6
+Defensive Rating,10,Breanna Stewart,NYL,99.8
+Defensive Rating,11,Gabby Williams,SEA,99.9
+Defensive Rating,12,Courtney Williams,MIN,99.9
+Defensive Rating,13,Ezi Magbegor,SEA,100
+Defensive Rating,14,Maya Caldwell,ATL,100.3
+Defensive Rating,15,Natasha Howard,IND,100.4
+Defensive Rating,16,Jonquel Jones,NYL,100.5
+Defensive Rating,17,Rhyne Howard,ATL,100.5
+Defensive Rating,18,Satou Sabally,PHO,100.9
+Defensive Rating,19,Aliyah Boston,IND,101.2
+Defensive Rating,20,Temi Fagbenle,GSV,101.4
+Usage Pct,1,A'ja Wilson,LVA,31.9
+Usage Pct,2,Shakira Austin,WAS,29.9
+Usage Pct,3,Satou Sabally,PHO,29.2
+Usage Pct,4,Sabrina Ionescu,NYL,28.9
+Usage Pct,5,Napheesa Collier,MIN,28.6
+Usage Pct,6,Tina Charles,CON,28.3
+Usage Pct,7,Kelsey Mitchell,IND,27.7
+Usage Pct,8,Kahleah Copper,PHO,27.6
+Usage Pct,9,Breanna Stewart,NYL,27.2
+Usage Pct,10,Marina Mabrey,CON,25.8
+Usage Pct,11,Courtney Williams,MIN,25.7
+Usage Pct,12,Dearica Hamby,LAS,25.6
+Usage Pct,13,Nneka Ogwumike,SEA,25.4
+Usage Pct,14,Kelsey Plum,LAS,25.4
+Usage Pct,15,Brittney Sykes,TOT,25.1
+Usage Pct,16,Angel Reese,CHI,25
+Usage Pct,17,Paige Bueckers,DAL,24.7
+Usage Pct,18,Kiki Iriafen,WAS,24.5
+Usage Pct,19,Alyssa Thomas,PHO,24.4
+Usage Pct,20,Skylar Diggins,SEA,24.3
+Total Rebound Pct,1,Angel Reese,CHI,23.4
+Total Rebound Pct,2,Aneesah Morrow,CON,21.7
+Total Rebound Pct,3,Jessica Shepard,MIN,20.9
+Total Rebound Pct,4,Kiki Iriafen,WAS,19.5
+Total Rebound Pct,5,A'ja Wilson,LVA,19.1
+Total Rebound Pct,6,Kamilla Cardoso,CHI,18.2
+Total Rebound Pct,7,Jonquel Jones,NYL,17.5
+Total Rebound Pct,8,Shakira Austin,WAS,17
+Total Rebound Pct,9,Azura Stevens,LAS,16.9
+Total Rebound Pct,10,Natasha Howard,IND,16.6
+Total Rebound Pct,11,Aliyah Boston,IND,16.5
+Total Rebound Pct,12,Brionna Jones,ATL,16.1
+Total Rebound Pct,13,Alyssa Thomas,PHO,16.1
+Total Rebound Pct,14,Myisha Hines-Allen,DAL,15.6
+Total Rebound Pct,15,Dearica Hamby,LAS,15.2
+Total Rebound Pct,16,Brittney Griner,ATL,14.8
+Total Rebound Pct,17,Elizabeth Williams,CHI,14.5
+Total Rebound Pct,18,Naz Hillmon,ATL,14.3
+Total Rebound Pct,19,NaLyssa Smith,TOT,14
+Total Rebound Pct,20,Olivia Nelson-Ododa,CON,13.7
+Offensive Rebound Pct,1,Angel Reese,CHI,15.4
+Offensive Rebound Pct,2,Brionna Jones,ATL,14
+Offensive Rebound Pct,3,Jessica Shepard,MIN,13.4
+Offensive Rebound Pct,4,Kamilla Cardoso,CHI,12.7
+Offensive Rebound Pct,5,Aneesah Morrow,CON,12.4
+Offensive Rebound Pct,6,Kiki Iriafen,WAS,11.8
+Offensive Rebound Pct,7,Elizabeth Williams,CHI,10.4
+Offensive Rebound Pct,8,Dearica Hamby,LAS,10
+Offensive Rebound Pct,9,Natasha Howard,IND,9.7
+Offensive Rebound Pct,10,Aliyah Boston,IND,9.6
+Offensive Rebound Pct,11,Temi Fagbenle,GSV,9
+Offensive Rebound Pct,12,NaLyssa Smith,TOT,8.8
+Offensive Rebound Pct,13,Olivia Nelson-Ododa,CON,8.6
+Offensive Rebound Pct,14,A'ja Wilson,LVA,8.5
+Offensive Rebound Pct,15,Ezi Magbegor,SEA,8.2
+Offensive Rebound Pct,16,Shakira Austin,WAS,8
+Offensive Rebound Pct,17,Naz Hillmon,ATL,7.4
+Offensive Rebound Pct,18,Myisha Hines-Allen,DAL,7.2
+Offensive Rebound Pct,19,Azura Stevens,LAS,7.2
+Offensive Rebound Pct,20,Alanna Smith,MIN,7.1
+Assist Pct,1,Alyssa Thomas,PHO,53.6
+Assist Pct,2,Veronica Burton,GSV,37.6
+Assist Pct,3,Courtney Williams,MIN,35.6
+Assist Pct,4,Jordin Canada,ATL,33.2
+Assist Pct,5,Sabrina Ionescu,NYL,33
+Assist Pct,6,Skylar Diggins,SEA,31.8
+Assist Pct,7,Jackie Young,LVA,30.9
+Assist Pct,8,Paige Bueckers,DAL,30.2
+Assist Pct,9,Natasha Cloud,NYL,28.9
+Assist Pct,10,Chelsea Gray,LVA,28.3
+Assist Pct,11,Kelsey Plum,LAS,27.9
+Assist Pct,12,Julie Allemand,LAS,25.7
+Assist Pct,13,Sug Sutton,WAS,25
+Assist Pct,14,Marina Mabrey,CON,24.3
+Assist Pct,15,Bria Hartley,CON,23.8
+Assist Pct,16,Natisha Hiedeman,MIN,23.8
+Assist Pct,17,Ariel Atkins,CHI,23.5
+Assist Pct,18,Brittney Sykes,TOT,22.8
+Assist Pct,19,Rhyne Howard,ATL,22.6
+Assist Pct,20,Angel Reese,CHI,21.5
+Defensive Rebound Pct,1,Aneesah Morrow,CON,31.9
+Defensive Rebound Pct,2,Angel Reese,CHI,31.2
+Defensive Rebound Pct,3,A'ja Wilson,LVA,29.7
+Defensive Rebound Pct,4,Jessica Shepard,MIN,27.9
+Defensive Rebound Pct,5,Kiki Iriafen,WAS,27.2
+Defensive Rebound Pct,6,Jonquel Jones,NYL,27.1
+Defensive Rebound Pct,7,Alyssa Thomas,PHO,26.7
+Defensive Rebound Pct,8,Azura Stevens,LAS,26.1
+Defensive Rebound Pct,9,Shakira Austin,WAS,26
+Defensive Rebound Pct,10,Myisha Hines-Allen,DAL,24.7
+Defensive Rebound Pct,11,Brittney Griner,ATL,23.8
+Defensive Rebound Pct,12,Natasha Howard,IND,23.8
+Defensive Rebound Pct,13,Aliyah Boston,IND,23.7
+Defensive Rebound Pct,14,Kamilla Cardoso,CHI,23.5
+Defensive Rebound Pct,15,Nneka Ogwumike,SEA,22.8
+Defensive Rebound Pct,16,Naz Hillmon,ATL,20.8
+Defensive Rebound Pct,17,Dearica Hamby,LAS,20.2
+Defensive Rebound Pct,18,Breanna Stewart,NYL,19.8
+Defensive Rebound Pct,19,Satou Sabally,PHO,19.8
+Defensive Rebound Pct,20,Napheesa Collier,MIN,19.5
+Steal Pct,1,Gabby Williams,SEA,3.6
+Steal Pct,2,Jordin Canada,ATL,3.2
+Steal Pct,3,Saniya Rivers,CON,2.9
+Steal Pct,4,Ariel Atkins,CHI,2.8
+Steal Pct,5,A'ja Wilson,LVA,2.7
+Steal Pct,6,Napheesa Collier,MIN,2.7
+Steal Pct,7,Alyssa Thomas,PHO,2.6
+Steal Pct,8,Alanna Smith,MIN,2.6
+Steal Pct,9,Maya Caldwell,ATL,2.6
+Steal Pct,10,Erica Wheeler,SEA,2.5
+Steal Pct,11,Dearica Hamby,LAS,2.5
+Steal Pct,12,Natasha Howard,IND,2.5
+Steal Pct,13,Shakira Austin,WAS,2.4
+Steal Pct,14,Angel Reese,CHI,2.4
+Steal Pct,15,Satou Sabally,PHO,2.4
+Steal Pct,16,Paige Bueckers,DAL,2.4
+Steal Pct,17,Julie Allemand,LAS,2.4
+Steal Pct,18,Chelsea Gray,LVA,2.3
+Steal Pct,19,Rhyne Howard,ATL,2.3
+Steal Pct,20,Kathryn Westbeld,PHO,2.3
+Block Pct,1,Ezi Magbegor,SEA,7.2
+Block Pct,2,Alanna Smith,MIN,6.6
+Block Pct,3,A'ja Wilson,LVA,6.4
+Block Pct,4,Olivia Nelson-Ododa,CON,5.2
+Block Pct,5,Brittney Griner,ATL,5
+Block Pct,6,Shakira Austin,WAS,4.7
+Block Pct,7,Napheesa Collier,MIN,4.3
+Block Pct,8,Elizabeth Williams,CHI,4
+Block Pct,9,Breanna Stewart,NYL,4
+Block Pct,10,Kamilla Cardoso,CHI,4
+Block Pct,11,Jonquel Jones,NYL,3.6
+Block Pct,12,Azura Stevens,LAS,3.5
+Block Pct,13,Saniya Rivers,CON,3.4
+Block Pct,14,Kathryn Westbeld,PHO,2.9
+Block Pct,15,Aliyah Boston,IND,2.8
+Block Pct,16,NaLyssa Smith,TOT,2.8
+Block Pct,17,Rebecca Allen,CHI,2.6
+Block Pct,18,Brionna Jones,ATL,2.6
+Block Pct,19,Temi Fagbenle,GSV,2.6
+Block Pct,20,Skylar Diggins,SEA,2.3
+Turnover Pct,1,DeWanna Bonner,TOT,8.7
+Turnover Pct,2,Rhyne Howard,ATL,9.1
+Turnover Pct,3,Kelsey Mitchell,IND,9.1
+Turnover Pct,4,Kathryn Westbeld,PHO,9.5
+Turnover Pct,5,A'ja Wilson,LVA,10
+Turnover Pct,6,Allisha Gray,ATL,10.3
+Turnover Pct,7,Jewell Loyd,LVA,10.4
+Turnover Pct,8,Napheesa Collier,MIN,10.6
+Turnover Pct,9,Paige Bueckers,DAL,10.6
+Turnover Pct,10,Tina Charles,CON,10.8
+Turnover Pct,11,Breanna Stewart,NYL,10.8
+Turnover Pct,12,Dana Evans,LVA,11
+Turnover Pct,13,Bridget Carleton,MIN,11.1
+Turnover Pct,14,Nneka Ogwumike,SEA,11.3
+Turnover Pct,15,Alysha Clark,TOT,11.4
+Turnover Pct,16,Satou Sabally,PHO,11.4
+Turnover Pct,17,Lexie Hull,IND,11.5
+Turnover Pct,18,Arike Ogunbowale,DAL,11.6
+Turnover Pct,19,Brionna Jones,ATL,11.7
+Turnover Pct,20,Aneesah Morrow,CON,11.7

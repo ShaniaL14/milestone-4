@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "WNBALeaders.html",
+    "href": "WNBALeaders.html",
+    "title": "WNBA & NBA Statistical Leaders",
+    "section": "",
+    "text": "ExplorationAbout\n\n\n\nExplore how playing time influences production across both leagues. Use the filter below to switch categories—the WNBA chart appears first, with the corresponding NBA chart directly underneath.\n\n\n\n  \n    \n      📊\n      \n        Select Statistical Category\n        Both charts will dynamically update to display the chosen metric\n      \n    \n    \n      \n        🏀 Points\n        🔄 Rebounds\n        🛡️ Blocks\n        🤝 Assists\n        ⚡ Steals\n        ⚠️ Personal Fouls\n      \n    \n  \n\n\n\n\n  \n    WNBA · Points Scored\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Points Scored\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Rebounds Grabbed\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Rebounds Grabbed\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Blocks\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Blocks\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Assists\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Assists\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Steals\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Steals\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Personal Fouls\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Personal Fouls\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n  \n    💡 Interactive Tips & Notes:\n    \n      Hover over individual points to inspect the player name, team, date, minutes, and exact statistics.\n      Click and drag across any plot to zoom into clusters; double-click to reset the axes.\n      Dashed trendline represents an ordinary least squares (OLS) linear regression model fitted across all 12,013 individual player performances.\n      Data Sources: SportsDataverse (wehoop for WNBA and hoopR via ESPN for NBA).\n    \n  \n\n\n\n\n\n\n\n\nProject Overview\nThis project explores the relationship between playing time (minutes) and statistical output across both the WNBA and NBA for the 2025–2026 seasons.\n\nData Sources:\n\nWNBA: SportsDataverse (wehoop)\nNBA: ESPN (hoopR)\n\nKey Categories: Points, Rebounds, Assists, Steals, Blocks, and Personal Fouls.\nSample: Both leagues display 2,000 sampled individual game performances with linear regression trendlines calculated across all 12,013 games."
+  },
+  {
+    "objectID": "story.html",
+    "href": "story.html",
+    "title": "Story",
+    "section": "",
+    "text": "As a basketball player and fan, I became interested in analyzing Women’s Basketball statistics. After comparing players across multiple seasons and researching reliable data sources, I discovered a positive correlation between minutes played and points, assists, steals, rebounds, and blocks. This inspired me to create a website using graphs and data to highlight player performance, celebrate their legacies, and showcase the growth of Women’s Basketball. I have also compared my data to Men’s Basketball to prove that women are just as capable as men."
+  },
+  {
+    "objectID": "story.html#about",
+    "href": "story.html#about",
+    "title": "Story",
+    "section": "",
+    "text": "As a basketball player and fan, I became interested in analyzing Women’s Basketball statistics. After comparing players across multiple seasons and researching reliable data sources, I discovered a positive correlation between minutes played and points, assists, steals, rebounds, and blocks. This inspired me to create a website using graphs and data to highlight player performance, celebrate their legacies, and showcase the growth of Women’s Basketball. I have also compared my data to Men’s Basketball to prove that women are just as capable as men."
+  },
+  {
+    "objectID": "story.html#about-the-data",
+    "href": "story.html#about-the-data",
+    "title": "Story",
+    "section": "About the Data",
+    "text": "About the Data\nThe datasets comprise 12,013 individual player-game box scores from the 2025–2026 regular seasons: - WNBA Data: Sourced via SportsDataverse (wehoop). - NBA Data: Sourced from ESPN via SportsDataverse (hoopR).\nTo ensure a balanced comparison across both leagues, each league’s sample contains 12,013 observations, with 2,000 performances plotted in each interactive visualization. The dashed trendlines represent linear regressions fitted across all 12,013 games."
+  },
+  {
+    "objectID": "story.html#about-me",
+    "href": "story.html#about-me",
+    "title": "Story",
+    "section": "About Me",
+    "text": "About Me\nMy name is Shania Leubin, and I graduated from Lemon Bay High School.\nKane’s Free Data Science Bootcamp"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WNBA & NBA Statistical Leaders",
+    "section": "",
+    "text": "ExplorationAbout\n\n\n\nExplore how playing time influences production across both leagues. Use the filter below to switch categories—the WNBA chart appears first, with the corresponding NBA chart directly underneath.\n\n\n\n  \n    \n      📊\n      \n        Select Statistical Category\n        Both charts will dynamically update to display the chosen metric\n      \n    \n    \n      \n        🏀 Points\n        🔄 Rebounds\n        🛡️ Blocks\n        🤝 Assists\n        ⚡ Steals\n        ⚠️ Personal Fouls\n      \n    \n  \n\n\n\n\n  \n    WNBA · Points Scored\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Points Scored\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Rebounds Grabbed\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Rebounds Grabbed\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Blocks\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Blocks\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Assists\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Assists\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Steals\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Steals\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n  \n    WNBA · Personal Fouls\n    WNBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n  \n    NBA · Personal Fouls\n    NBA (2025–2026)\n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n  \n    💡 Interactive Tips & Notes:\n    \n      Hover over individual points to inspect the player name, team, date, minutes, and exact statistics.\n      Click and drag across any plot to zoom into clusters; double-click to reset the axes.\n      Dashed trendline represents an ordinary least squares (OLS) linear regression model fitted across all 12,013 individual player performances.\n      Data Sources: SportsDataverse (wehoop for WNBA and hoopR via ESPN for NBA).\n    \n  \n\n\n\n\n\n\n\n\nProject Overview\nThis project explores the relationship between playing time (minutes) and statistical output across both the WNBA and NBA for the 2025–2026 seasons.\n\nData Sources:\n\nWNBA: SportsDataverse (wehoop)\nNBA: ESPN (hoopR)\n\nKey Categories: Points, Rebounds, Assists, Steals, Blocks, and Personal Fouls.\nSample: Both leagues display 2,000 sampled individual game performances with linear regression trendlines calculated across all 12,013 games.\n\n\n\nAbout"
+  }
+]
